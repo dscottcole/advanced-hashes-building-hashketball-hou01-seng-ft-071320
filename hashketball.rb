@@ -1,5 +1,9 @@
 # Write your code here!
-game_hash = {
+
+game_hash = {}
+
+
+game_hash2 = {
   home:{
   team_name:"Brooklyn Nets",
   colors:["Black, White"],
